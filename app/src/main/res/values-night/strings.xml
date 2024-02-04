@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="forget_password">Forget Password</string>
+
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="welcome">Welcome..!</string>
+    <string name="income">Income</string>
+    <string name="amount">0000</string>
+    <string name="expense">Expense</string>
+    <string name="balance">Balance</string>
+    <string name="home">Home</string>
+    <string name="expences">Expences</string>
+    <string name="map">Map</string>
+    <string name="messages">Messages</string>
+</resources>
